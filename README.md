@@ -1,4 +1,5 @@
-<img src="https://camo.githubusercontent.com/19ce75d4b514d40c2b7802633111e8dbe1504d9ac9a4a82733a64fea36010e47/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f63554147754c69456354427752666b4151712f67697068792e6769663f6369643d656366303565343734626a726c636a74367963377730743230646a6f6b62746c396934653969716b696539616e763869267269643d67697068792e6769662663743d73" alt="Coding Software Developer Sticker by Boolean Careers" style="width: 350px; height: 250px; max-width: 100%; display: inline-block;" data-canonical-src="https://media2.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e474bjrlcjt6yc7w0t20djokbtl9i4e9iqkie9anv8i&amp;rid=giphy.gif&amp;ct=s" data-target="animated-image.originalImage">
+
+
 
 <h1 align="center">About me</h1>
 
@@ -16,7 +17,9 @@
 
 - 👨‍💻 All of my projects are available at [my GitHub account](sana61786)
 
-- 📫 How to reach me **https://www.linkedin.com/in/sana-naz-77341b378/**
+- 📫 How to reach me **https://www.linkedin.com/in/sana-naz-77341b378/** <img src="https://camo.githubusercontent.com/19ce75d4b514d40c2b7802633111e8dbe1504d9ac9a4a82733a64fea36010e47/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f63554147754c69456354427752666b4151712f67697068792e6769663f6369643d656366303565343734626a726c636a74367963377730743230646a6f6b62746c396934653969716b696539616e763869267269643d67697068792e6769662663743d73" alt="Coding Software Developer Sticker by Boolean Careers" style="width: 350px; height: 250px; max-width: 100%; display: inline-block;" data-canonical-src="https://media2.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e474bjrlcjt6yc7w0t20djokbtl9i4e9iqkie9anv8i&amp;rid=giphy.gif&amp;ct=s" data-target="animated-image.originalImage">
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
