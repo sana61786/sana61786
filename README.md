@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/sana-naz-77341b378/**
 - <img align="right" alt="Coding" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" 
-style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+style="max-width:20%; display: inline-block;" data-target="animated-image.originalImage">
 <div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
