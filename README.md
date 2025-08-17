@@ -1,16 +1,15 @@
 <h3>👋!Hi there</h3>
 
 <h1>Welcome to my profile</h1>
+<h3 align="center">A passionate front-end developer from Pakistan</h3>
 
 ![img.alt](https://github.com/sana61786/sana61786/blob/main/Purple%20and%20Pink%20Minimalist%20Front-End%20Developer%20LinkedIn%20Banner%20(1).png)
-
-<h1 align="center">About me</h1>
-
-<h3 align="center">A passionate front-end developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sana61786&label=Profile%20views&color=0e75b6&style=flat" alt="sana61786" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sana61786" alt="sana61786" /></a> </p>
+
+<h3>💭About me</h3>
 
 - 👋Hi I am Sana here.
   
@@ -21,8 +20,9 @@
 - 👨‍💻 All of my projects are available at [my GitHub account](sana61786)
 
 - 📫 How to reach me **https://www.linkedin.com/in/sana-naz-77341b378/**
-- <img align="right" alt="Coding" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" 
-style="max-width:20%; display: inline-block;" data-target="animated-image.originalImage">
+
+<img align="center" alt="Coding" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" 
+style="max-width:100%; display: inline-block;" data-target="animated-image.originalImage">
 <div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
